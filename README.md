@@ -1,3 +1,3 @@
-# react-ts-vite
+# fancy counter
 
-simple react app using typescript and running under vite.
+simple incremental counter to use when you are borred :)
